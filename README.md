@@ -54,9 +54,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NotKhairy\&show_icons=true\&theme=tokyonight)
+![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotKhairy&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotKhairy\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotKhairy&layout=compact&theme=tokyonight)
 
 ---
 
