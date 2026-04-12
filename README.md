@@ -54,21 +54,21 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=NotKhairy\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotKhairy\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/NotKhairy/NotKhairy/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🎧 Currently Listening To
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID\&cover_image=true\&theme=novatorem)
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=ii-khairy-ii\&cover_image=true\&theme=novatorem)
 
 ---
 
